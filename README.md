@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sunnyjr555" target="blank"><img src="https://img.shields.io/twitter/follow/@sunnyjr555?logo=twitter&style=for-the-badge" alt="@sunnyjr555" /></a> </p>
 
-- 🔭 I’m currently working on **java script projects**
+- 🔭 I’m currently working on **React js **
 
 - 🌱 I’m currently learning **Java Script and React_js**
 
